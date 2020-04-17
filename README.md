@@ -8,4 +8,4 @@ William White,
 Brett Ellis,
 William Hall
 
-#Why exploring public opinion on the assigned data (e.g., stress) is important (project justification).
+## Why exploring public opinion on the assigned data (e.g., stress) is important (project justification).
