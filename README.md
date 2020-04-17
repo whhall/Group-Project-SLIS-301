@@ -1,13 +1,12 @@
 # Group Project SLIS 301
-[R Script](/SLIS301projectGroup6.R)
-
-[Data Source](/Tweets-food.txt)
-
 Group 6:
 William White,
 Brett Ellis,
 William Hall
 
+[R Script](/SLIS301projectGroup6.R)
+
+[Data Source](/Tweets-food.txt)
 
 # Public Opinion Data Mining Through Twitter: Sentiment Analysis and Topic Modeling Of Food Related Tweets
 
