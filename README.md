@@ -7,3 +7,5 @@ Group 6:
 William White,
 Brett Ellis,
 William Hall
+
+#Why exploring public opinion on the assigned data (e.g., stress) is important (project justification).
