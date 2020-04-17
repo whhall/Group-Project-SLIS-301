@@ -1,5 +1,5 @@
 # Group-Project-SLIS-301
-[R project for SLIS 301](/SLIS301projectGroup6.R)
+[R Script](/SLIS301projectGroup6.R)
 
 [Data Source](/Tweets-food.txt)
 
