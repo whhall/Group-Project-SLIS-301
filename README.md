@@ -1,3 +1,4 @@
+![Green Header](/header.png)
 # Group Project SLIS 301
 Group 6:
 William White,
