@@ -1,7 +1,7 @@
 # Group-Project-SLIS-301
-[R project for SLIS 301](../SLIS301projectGroup6.R)
+[R project for SLIS 301](/SLIS301projectGroup6.R)
 
-[Data Source](../Tweets-food.txt)
+[Data Source](/Tweets-food.txt)
 
 Group 6:
 William White,
