@@ -13,7 +13,13 @@ William Hall
 
 
 ## Why exploring public opinion on the assigned data (e.g., stress) is important (project justification).
+Importance of Social Media Analytics:
 
+https://hackernoon.com/the-importance-of-social-media-analytics-qy1q30gc
+
+Importance of Food and Nutrition:
+
+https://www.hhs.gov/fitness/eat-healthy/importance-of-good-nutrition/index.html
 
 
 ## Data Analysis
