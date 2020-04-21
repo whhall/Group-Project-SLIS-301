@@ -1,9 +1,9 @@
 ![Green Header](/header.png)
 # Group Project SLIS 301
 Group 6:
+William Hall,
 William White,
-Brett Ellis,
-William Hall
+Brett Ellis
 
 [R Script](/SLIS301projectGroup6.R)
 
